@@ -1,8 +1,33 @@
-# Vì sao bạn cần có một kiến thức về Backend...
+Đầu tiên: Hầu hết mọi người không chuẩn bị nhiều cho tương lai, nhưng kết quả của việc chuẩn bị và không chuẩn bị sẽ rất khác nhau. Tin tôi đi... Bời vì khi 40 tuổi tôi mới nhận ra mình đã mất thời gian để mài VŨ KHÍ như thế nào?
 
-## Dự án dự kiến bao gồm những tính năng sau - Video phía dưới...
+Thứ hai: Nhiều câu hỏi sẽ được đặt ra: "Tôi chưa có kinh nghiệm liệu có thể làm hoặc học cái này không?" Xin thưa, kinh nghiệm có hay không là do bản thân mình chứ không phải do một tổ chức nào đó quyết định. Có thể lấy kinh nghiệm của mình bằng nhiều cách, có thể là viết một dự án thông qua suy nghĩ tự tìm tòi, hoặc thông qua dự án mà tôi đã thiết kế mà tôi đã thiết kể outline phía dưới( bạn có thể kéo xuống) là tôi tin rằng bạn sẽ hơn nhiều người fresher rồi đấy.
+
+Nói như vậy không có nghĩa rằng bạn phải đăng ký một khóa học nào đó, mà tôi tin rằng bạn cũng biết rằng đằng sau việc tuyển dụng là tìm kiếm một người có thể giải quyết các vấn đề tồn tại của họ và kinh nghiệm giải quyết vấn đề này là thứ họ cần. Sau đó, nếu chúng ta muốn thay đổi công việc, tôi nghĩ bạn cũng nên biết rằng chìa khóa để tuyển dụng là "kinh nghiệm" và kinh nghiệm liên quan đến vị trí này là một phần thưởng. Suy nghĩ xa hơn, thời gian của con người là như nhau, sử dụng thời gian ở đâu và giải quyết vấn đề gì thành kinh nghiệm, đây là một trong những hướng chúng ta có thể nghĩ đến. Ví dụ: giả sử bạn muốn trở thành người quản lý dự án. Kinh nghiệm quản lý dự án đó là điểm cộng của bạn. Quản lý mười người và quản lý trăm người có độ sâu quản lý khác nhau và kinh nghiệm khác nhau.
+
+Không dài dòng nữa.
+
+## Làm thế nào để có một khả năng học tập hiệu quả đối với lập trình viên?
+
+Thực ra rất đơn giản, chỉ cần làm sự thống nhất giữa `kiến thức` và hành động của chúng ta. Nhưng nhiều người không thực sự hiểu thế nào là "kiến thức" và thế nào là "hành động".
+Biết là biết, nhưng làm thế nào để bạn thể hiện rằng bạn biết? Chỉ khi một điều có thể được viết rõ ràng hoặc giải thích rõ ràng, người ta mới có thể thể hiện kiến thức của mình.
+Làm là `hành động`, viết ra các ý tưởng và tìm cách sử dụng chúng. Không có hành động, suy nghĩ chỉ là có trong tâm trí, không có hành động, suy nghĩ chắc chắn đó không phải là kinh nghiệm; không có hành động, suy nghĩ cũng chỉ là suy nghĩ... Đừng đặt mục tiêu cao cho bản thân, chỉ cần code mỗi ngày với một mục tiêu hoàn thành dự án. Ngay cả khi nó chỉ là một đoạn code ngắn nhất.
+
+## Dự án này dành cho ai?
+Ngắn gọn và súc tích là điều nên làm... Dưới đây là một số gợi ý cho các bạn..
+- Dành cho ai muốn khắc sâu kiến thức trọng điểm của lập trình.
+- Cảm giác hoàn thành một chức năng giúp thúc đẩy việc học hỏi không ngừng
+- Luyện kỹ thuật code và một số thuật toán
+- Cơ hội tìm việc tốt hơn
+- Tham gia cộng động discord
+- Có thể có thêm thu nhập với dụ án ngoài, vì tôi là người làm ngoài.
+...
+
+
+## 👉Dự án dự kiến bao gồm những tính năng sau - Video phía dưới...
 
 Đương nhiên outline này có thể chưa trọn vẹn với hệ thống lớn nhưng cũng đủ cho các thành viên có một kiến thức vững về LUỒNG đi của một backend vừa nhưng không nhỏ..
+
+Khóa học Nodejs Backend eCommerce **(30.000 VNĐ)** và LINK ĐĂNG KÝ - [Link dăng ký khóa học, tham gia hội viên](https://www.youtube.com/channel/UCky92hx0lZxVBi2BJ6Zm2Hg/join)
 
 -   Authentication
     -   Login [Public]
